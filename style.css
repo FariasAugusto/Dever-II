@@ -141,14 +141,10 @@ html::-webkit-scrollbar-thumb:active {
 }
 
 .rodape {
-<<<<<<< HEAD
-    padding: 0px;
-    display: flex;
-    justify-content: center;
-=======
-    padding: 32px;
->>>>>>> e5303b7cd13ca08df18753d88d2089fbe6333b83
-    border-top: 0.4px solid #FCFCFF;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  border-top: 0.4px solid #FCFCFF;
 }
 
 .rodape-imagem {
