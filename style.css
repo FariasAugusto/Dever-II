@@ -18,22 +18,22 @@ html::-webkit-scrollbar {
 }
 
 html::-webkit-scrollbar-track {
-  background: rgb(179, 177, 177);
-  border-radius: 10px;
+  background: #313131;
+  border-radius: 0px;
 }
 
 html::-webkit-scrollbar-thumb {
-  background: rgb(136, 136, 136);
+  background: #08080871;
   border-radius: 10px;
 }
 
 html::-webkit-scrollbar-thumb:hover {
-  background: rgb(100, 100, 100);
+  background: #08080828;
   border-radius: 10px;
 }
 
 html::-webkit-scrollbar-thumb:active {
-  background: rgb(68, 68, 68);
+  background: #08080832;
   border-radius: 10px;
 }
 
