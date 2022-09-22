@@ -27,11 +27,11 @@ html::-webkit-scrollbar-thumb {
 }
 
 html::-webkit-scrollbar-thumb:hover {
-  background: rgb(255, 255, 255);
+  background: #FCFCFF;
 }
 
 html::-webkit-scrollbar-thumb:active {
-  background: rgb(255, 255, 255);
+  background: #FCFCFF;
 }
 
 .cabecalho {
@@ -53,7 +53,7 @@ html::-webkit-scrollbar-thumb:active {
 
 .cabecalho-menu-item {
   font-family: 'Sarala', sans-serif;
-  color: #ffffff;
+  color: #FCFCFF;
   font-weight: 400;
   font-size: 18px
 }
@@ -64,7 +64,7 @@ html::-webkit-scrollbar-thumb:active {
 
 .conteudo {
   margin-bottom: 48px;
-  border-top: 0.4px solid #ffffff;
+  border-top: 0.4px solid #FCFCFF;
 }
 
 .conteudo-principal {
@@ -84,18 +84,18 @@ html::-webkit-scrollbar-thumb:active {
   font-family: 'Righteous', cursive;
   font-weight: 400;
   font-size: 64px;
-  color: #ffffff;
+  color: #FCFCFF;
 }
 
 .conteudo-principal-escrito-subtitulo {
   font-family: 'Sarala', sans-serif;
   font-weight: 400;
   font-size: 24px;
-  color: #ffffff;
+  color: #FCFCFF;
 }
 
 .conteudo-principal-escrito-botao {
-  background-color: #ffffff;
+  background-color: #FCFCFF;
   width: 180px;
   height: 60px;
   border: none;
@@ -124,12 +124,12 @@ html::-webkit-scrollbar-thumb:active {
 }
 
 .conteudo-secundario-titulo {
-  border-top: 0.4px solid #ffffff;
+  border-top: 0.4px solid #FCFCFF;
   padding-top: 48px;
   font-family: 'Righteous', cursive;
   font-weight: 400;
   font-size: 24px;
-  color: #ffffff;
+  color: #FCFCFF;
   margin-bottom: 16px;
 }
 
@@ -137,12 +137,12 @@ html::-webkit-scrollbar-thumb:active {
   font-family: 'Sarala', sans-serif;
   font-weight: 300;
   font-size: 18px;
-  color: #ffffff;
+  color: #FCFCFF;
 }
 
 .rodape {
     padding: 32px;
-    border-top: 0.4px solid #ffffff;
+    border-top: 0.4px solid #FCFCFF;
 }
 
 .rodape-imagem {
