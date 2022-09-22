@@ -72,14 +72,14 @@ html::-webkit-scrollbar-thumb:active {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 .conteudo-principal-escrito {
   display: flex;
   flex-direction: column;
   gap: 40px;
-  
+  margin: 0px 120px;
 }
 
 .conteudo-principal-escrito-titulo {
@@ -114,9 +114,9 @@ html::-webkit-scrollbar-thumb:active {
 }
 
 .conteudo-principal-imagem {
-  height: 20%;
-  width: 20%;
-  
+  height: 10%;
+  width: 10%;
+  margin: 0px 120px;
 }
 
 .conteudo-secundario {
